@@ -1,0 +1,11 @@
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Optional large weight ignore (if hosted via Git LFS or external CDN)
+# *.onnx
